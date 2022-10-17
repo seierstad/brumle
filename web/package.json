@@ -1,0 +1,19 @@
+{
+  "name": "brumle",
+  "version": "1.0.0",
+  "description": "web presentation of brumle",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik E. Seierstad",
+  "license": "MIT",
+  "dependencies": {
+    "es-module-shims": "^1.5.18",
+    "three": "^0.144.0"
+  },
+  "devDependencies": {
+    "serve": "^14.0.1"
+  }
+}
